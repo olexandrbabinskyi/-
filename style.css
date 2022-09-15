@@ -1,0 +1,9 @@
+body {
+  font-size: 18px;
+}
+p, h1, h2 {
+  text-align: center;
+}
+.counter {
+text-align: center;
+}
